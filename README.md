@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=medeirospradoleonardo&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medeirospradoleonardo&layout=compact&langs_count=16&theme=swift"/>
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=medeirospradoleonardo&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
 </div>
 
 
