@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou o Leonardo Prado
+## 👋 Olá, eu sou o Leonardo Medeiros Prado
 
 Sou **Desenvolvedor Full Stack**, com foco em **Frontend moderno (React / Next.js)** e **Backend headless (Strapi, GraphQL)**.  
 Atualmente trabalho com **Salesforce**, **integrações**, **arquitetura de sistemas** e **SaaS**.
