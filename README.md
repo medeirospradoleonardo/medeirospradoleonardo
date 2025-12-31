@@ -42,10 +42,10 @@ Gosto de construir produtos bem estruturados, escaláveis e com boa experiência
 ---
 
 ### 🧠 Atualmente focado em
+- **Salesforce** em geral
 - Arquitetura de **SaaS**
 - **Next.js App Router**
 - **GraphQL + Cache e Revalidação**
-- Integrações e automações no **Salesforce**
 - UX, performance e escalabilidade
 
 ---
